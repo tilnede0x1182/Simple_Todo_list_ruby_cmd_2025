@@ -1,1 +1,1 @@
-# Todo list in Ruby
+# Todo list in Ruby (in the terminal)
